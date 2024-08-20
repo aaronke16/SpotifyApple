@@ -1,2 +1,4 @@
-# SpotifyApple
-This is my attempt to make an application that would allow me to migrate my playlists from Spotify to Apple Music
+**Overview**
+
+Before running the program, you need to configure the necessary API keys and tokens.
+
